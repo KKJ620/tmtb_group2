@@ -1,0 +1,29 @@
+/* BFD49E */
+
+.App {
+  text-align: center;
+  position: relative;
+}
+
+.App-logo {
+  height: 15vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background: url("https://cdn.pixabay.com/photo/2016/03/17/06/49/renovation-1262389_1280.png")
+    center center/contain no-repeat;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.main-title {
+  position: absolute;
+  left: 35%;
+  color: white;
+  font-size: 10vmin;
+}
